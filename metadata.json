@@ -1,0 +1,5 @@
+{
+  "name": "MenuMaster",
+  "description": "An advanced multimodal restaurant assistant that transforms confusing restaurant menus into clear, actionable dining guidance using Gemini's vision and language capabilities.",
+  "requestFramePermissions": []
+}
